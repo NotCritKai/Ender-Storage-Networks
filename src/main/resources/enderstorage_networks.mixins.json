@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.notcritkai.enderstoragenetworks.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EnderLiquidStorageMixin",
+    "TankStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

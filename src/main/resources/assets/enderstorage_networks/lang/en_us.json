@@ -1,0 +1,13 @@
+{
+  "itemGroup.enderstorage_networks": "Example Mod Tab",
+  "block.enderstorage_networks.example_block": "Example Block",
+  "item.enderstorage_networks.example_item": "Example Item",
+
+  "enderstorage_networks.configuration.title": "EnderStorage Networks Configs",
+  "enderstorage_networks.configuration.section.enderstorage_networks.common.toml": "EnderStorage Networks Configs",
+  "enderstorage_networks.configuration.section.enderstorage_networks.common.toml.title": "EnderStorage Networks Configs",
+  "enderstorage_networks.configuration.items": "Item List",
+  "enderstorage_networks.configuration.logDirtBlock": "Log Dirt Block",
+  "enderstorage_networks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "enderstorage_networks.configuration.magicNumber": "Magic Number"
+}
